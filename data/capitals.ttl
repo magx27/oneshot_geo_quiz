@@ -1,0 +1,373 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+
+wd:Q1028 rdfs:label "Morocco"@en ;
+    wdt:P30 <urn:geoquiz:continent:Africa> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q3551 .
+
+wd:Q1033 rdfs:label "Nigeria"@en ;
+    wdt:P30 <urn:geoquiz:continent:Africa> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q3787 .
+
+wd:Q114 rdfs:label "Kenya"@en ;
+    wdt:P30 <urn:geoquiz:continent:Africa> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q3870 .
+
+wd:Q115 rdfs:label "Ethiopia"@en ;
+    wdt:P30 <urn:geoquiz:continent:Africa> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q3624 .
+
+wd:Q142 rdfs:label "France"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q90 .
+
+wd:Q145 rdfs:label "United Kingdom"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q84 .
+
+wd:Q148 rdfs:label "People's Republic of China"@en ;
+    wdt:P30 <urn:geoquiz:continent:Asia> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q956 .
+
+wd:Q155 rdfs:label "Brazil"@en ;
+    wdt:P30 <urn:geoquiz:continent:South_America> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q2844 .
+
+wd:Q159 rdfs:label "Russia"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q649 .
+
+wd:Q16 rdfs:label "Canada"@en ;
+    wdt:P30 <urn:geoquiz:continent:North_America> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1930 .
+
+wd:Q17 rdfs:label "Japan"@en ;
+    wdt:P30 <urn:geoquiz:continent:Asia> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1490 .
+
+wd:Q183 rdfs:label "Germany"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q64 .
+
+wd:Q189 rdfs:label "Iceland"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1764 .
+
+wd:Q20 rdfs:label "Norway"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q585 .
+
+wd:Q212 rdfs:label "Ukraine"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1899 .
+
+wd:Q213 rdfs:label "Czech Republic"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1085 .
+
+wd:Q218 rdfs:label "Romania"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q19660 .
+
+wd:Q224 rdfs:label "Croatia"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1435 .
+
+wd:Q241 rdfs:label "Cuba"@en ;
+    wdt:P30 <urn:geoquiz:continent:North_America> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1563 .
+
+wd:Q252 rdfs:label "Indonesia"@en ;
+    wdt:P30 <urn:geoquiz:continent:Asia> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q3630 .
+
+wd:Q27 rdfs:label "Ireland"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1761 .
+
+wd:Q28 rdfs:label "Hungary"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1781 .
+
+wd:Q29 rdfs:label "Spain"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q2807 .
+
+wd:Q298 rdfs:label "Chile"@en ;
+    wdt:P30 <urn:geoquiz:continent:South_America> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q2887 .
+
+wd:Q30 rdfs:label "United States of America"@en ;
+    wdt:P30 <urn:geoquiz:continent:North_America> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q61 .
+
+wd:Q31 rdfs:label "Belgium"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q239 .
+
+wd:Q33 rdfs:label "Finland"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1757 .
+
+wd:Q34 rdfs:label "Sweden"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1754 .
+
+wd:Q35 rdfs:label "Denmark"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1748 .
+
+wd:Q36 rdfs:label "Poland"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q270 .
+
+wd:Q38 rdfs:label "Italy"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q220 .
+
+wd:Q39 rdfs:label "Switzerland"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q70 .
+
+wd:Q40 rdfs:label "Austria"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1741 .
+
+wd:Q408 rdfs:label "Australia"@en ;
+    wdt:P30 <urn:geoquiz:continent:Oceania> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q3114 .
+
+wd:Q41 rdfs:label "Greece"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1524 .
+
+wd:Q414 rdfs:label "Argentina"@en ;
+    wdt:P30 <urn:geoquiz:continent:South_America> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1486 .
+
+wd:Q419 rdfs:label "Peru"@en ;
+    wdt:P30 <urn:geoquiz:continent:South_America> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q2868 .
+
+wd:Q43 rdfs:label "Turkey"@en ;
+    wdt:P30 <urn:geoquiz:continent:Asia> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q3640 .
+
+wd:Q45 rdfs:label "Portugal"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q597 .
+
+wd:Q55 rdfs:label "Netherlands"@en ;
+    wdt:P30 <urn:geoquiz:continent:Europe> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q727 .
+
+wd:Q664 rdfs:label "New Zealand"@en ;
+    wdt:P30 <urn:geoquiz:continent:Oceania> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q23661 .
+
+wd:Q668 rdfs:label "India"@en ;
+    wdt:P30 <urn:geoquiz:continent:Asia> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q987 .
+
+wd:Q739 rdfs:label "Colombia"@en ;
+    wdt:P30 <urn:geoquiz:continent:South_America> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q2841 .
+
+wd:Q79 rdfs:label "Egypt"@en ;
+    wdt:P30 <urn:geoquiz:continent:Africa> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q85 .
+
+wd:Q794 rdfs:label "Iran"@en ;
+    wdt:P30 <urn:geoquiz:continent:Asia> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q3616 .
+
+wd:Q843 rdfs:label "Pakistan"@en ;
+    wdt:P30 <urn:geoquiz:continent:Asia> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1362 .
+
+wd:Q851 rdfs:label "Saudi Arabia"@en ;
+    wdt:P30 <urn:geoquiz:continent:Asia> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q3692 .
+
+wd:Q869 rdfs:label "Thailand"@en ;
+    wdt:P30 <urn:geoquiz:continent:Asia> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1861 .
+
+wd:Q881 rdfs:label "Vietnam"@en ;
+    wdt:P30 <urn:geoquiz:continent:Asia> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1858 .
+
+wd:Q884 rdfs:label "South Korea"@en ;
+    wdt:P30 <urn:geoquiz:continent:Asia> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q8684 .
+
+wd:Q96 rdfs:label "Mexico"@en ;
+    wdt:P30 <urn:geoquiz:continent:North_America> ;
+    wdt:P31 wd:Q6256 ;
+    wdt:P36 wd:Q1489 .
+
+wd:Q1085 rdfs:label "Prague"@en .
+
+wd:Q1362 rdfs:label "Islamabad"@en .
+
+wd:Q1435 rdfs:label "Zagreb"@en .
+
+wd:Q1486 rdfs:label "Buenos Aires"@en .
+
+wd:Q1489 rdfs:label "Mexico City"@en .
+
+wd:Q1490 rdfs:label "Tokyo"@en .
+
+wd:Q1524 rdfs:label "Athens"@en .
+
+wd:Q1563 rdfs:label "Havana"@en .
+
+wd:Q1741 rdfs:label "Vienna"@en .
+
+wd:Q1748 rdfs:label "Copenhagen"@en .
+
+wd:Q1754 rdfs:label "Stockholm"@en .
+
+wd:Q1757 rdfs:label "Helsinki"@en .
+
+wd:Q1761 rdfs:label "Dublin"@en .
+
+wd:Q1764 rdfs:label "Reykjavík"@en .
+
+wd:Q1781 rdfs:label "Budapest"@en .
+
+wd:Q1858 rdfs:label "Hanoi"@en .
+
+wd:Q1861 rdfs:label "Bangkok"@en .
+
+wd:Q1899 rdfs:label "Kyiv"@en .
+
+wd:Q1930 rdfs:label "Ottawa"@en .
+
+wd:Q19660 rdfs:label "Bucharest"@en .
+
+wd:Q220 rdfs:label "Rome"@en .
+
+wd:Q23661 rdfs:label "Wellington"@en .
+
+wd:Q239 rdfs:label "Brussels"@en .
+
+wd:Q270 rdfs:label "Warsaw"@en .
+
+wd:Q2807 rdfs:label "Madrid"@en .
+
+wd:Q2841 rdfs:label "Bogotá"@en .
+
+wd:Q2844 rdfs:label "Brasília"@en .
+
+wd:Q2868 rdfs:label "Lima"@en .
+
+wd:Q2887 rdfs:label "Santiago de Chile"@en .
+
+wd:Q3114 rdfs:label "Canberra"@en .
+
+wd:Q3551 rdfs:label "Rabat"@en .
+
+wd:Q3616 rdfs:label "Tehran"@en .
+
+wd:Q3624 rdfs:label "Addis Ababa"@en .
+
+wd:Q3630 rdfs:label "Jakarta"@en .
+
+wd:Q3640 rdfs:label "Ankara"@en .
+
+wd:Q3692 rdfs:label "Riyadh"@en .
+
+wd:Q3787 rdfs:label "Abuja"@en .
+
+wd:Q3870 rdfs:label "Nairobi"@en .
+
+wd:Q585 rdfs:label "Oslo"@en .
+
+wd:Q597 rdfs:label "Lisbon"@en .
+
+wd:Q61 rdfs:label "Washington, D.C."@en .
+
+wd:Q64 rdfs:label "Berlin"@en .
+
+wd:Q649 rdfs:label "Moscow"@en .
+
+wd:Q70 rdfs:label "Bern"@en .
+
+wd:Q727 rdfs:label "Amsterdam"@en .
+
+wd:Q84 rdfs:label "London"@en .
+
+wd:Q85 rdfs:label "Cairo"@en .
+
+wd:Q8684 rdfs:label "Seoul"@en .
+
+wd:Q90 rdfs:label "Paris"@en .
+
+wd:Q956 rdfs:label "Beijing"@en .
+
+wd:Q987 rdfs:label "New Delhi"@en .
+
+<urn:geoquiz:continent:Oceania> rdfs:label "Oceania"@en .
+
+<urn:geoquiz:continent:North_America> rdfs:label "North America"@en .
+
+<urn:geoquiz:continent:Africa> rdfs:label "Africa"@en .
+
+<urn:geoquiz:continent:South_America> rdfs:label "South America"@en .
+
+<urn:geoquiz:continent:Asia> rdfs:label "Asia"@en .
+
+<urn:geoquiz:continent:Europe> rdfs:label "Europe"@en .
+
